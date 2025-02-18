@@ -1,6 +1,6 @@
 # Fdb version 4
-["xelatex"] 1739873631.266 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" "resume.pdf" "resume" 1739873631.33136 2
-  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" 1739856992.0707 3885 d104975b454a7d01f513aba6df4be8fc ""
+["xelatex"] 1739878102.94137 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" "resume.pdf" "resume" 1739878102.98996 2
+  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" 1739877710.06584 3885 d104975b454a7d01f513aba6df4be8fc ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
@@ -110,14 +110,14 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty" 1700082560 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/xifthen/xifthen.sty" 1448319911 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1655411236 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "awesome-cv.cls" 1739866514.0575 29983 2a6bff0679318745526fb312399ec03c ""
-  "cv/skills.tex" 1739778616.47729 1351 6bbde0f0b6224ba9027d64bc6cc32beb ""
-  "resume.aux" 1739866518.42105 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "resume.tex" 1739856992.0707 3885 d104975b454a7d01f513aba6df4be8fc ""
-  "resume/certificates.tex" 1739860101.09909 2092 2bb5b1fc775047bc8888a36d8861a668 ""
-  "resume/education.tex" 1739859930.75274 990 af6c76b0021b1472efc31a48333ed444 ""
-  "resume/experience.tex" 1739859974.0803 8189 24399c0fee5229a910bb98fc8676be1d ""
-  "resume/projects.tex" 1739785084.14401 7555 263b5dc0f2e0b0ba6a5421e89be89efb ""
+  "awesome-cv.cls" 1739874262.73792 29983 2a6bff0679318745526fb312399ec03c ""
+  "cv/skills.tex" 1739878102.69949 1354 6994278c2e7c8e5ca3fa32f8fd44e2a9 ""
+  "resume.aux" 1739877722.67082 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "resume.tex" 1739877710.06584 3885 d104975b454a7d01f513aba6df4be8fc ""
+  "resume/certificates.tex" 1739877710.06616 2092 2bb5b1fc775047bc8888a36d8861a668 ""
+  "resume/education.tex" 1739877710.06715 990 af6c76b0021b1472efc31a48333ed444 ""
+  "resume/experience.tex" 1739877710.06757 8189 24399c0fee5229a910bb98fc8676be1d ""
+  "resume/projects.tex" 1739877710.06799 7555 263b5dc0f2e0b0ba6a5421e89be89efb ""
   (generated)
   "resume.aux"
   "resume.log"
