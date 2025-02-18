@@ -92,6 +92,7 @@
 }
 % Solves issues Warning: File `cv.out' has changed
 \RequirePackage{bookmark}
+\usepackage{hyperref}
 
 %-------------------------------------------------------------------------------
 %                Configuration for directory locations
@@ -167,7 +168,7 @@
 \newcommand*{\headerfontlight}{\robotolight}
 \newcommand*{\footerfont}{\sourcesanspro}
 \newcommand*{\bodyfont}{\sourcesanspro}
-\newcommand*{\bodyfontlight}{\sourcesansprolight}
+\newcommand*{\bodyfontlight}{\sourcesanspro}
 
 %-------------------------------------------------------------------------------
 %                Configuration for styles
@@ -422,8 +423,8 @@
 \newcommand{\acvHeaderAfterQuoteSkip}{5mm}
 
 % Others
-\newcommand{\acvSectionTopSkip}{3mm}
-\newcommand{\acvSectionContentTopSkip}{2.5mm}
+\newcommand{\acvSectionTopSkip}{0.02mm}
+\newcommand{\acvSectionContentTopSkip}{0.5mm}
 
 
 %-------------------------------------------------------------------------------
@@ -735,7 +736,7 @@
   \begin{center}
     \setlength\tabcolsep{1ex}
     \setlength{\extrarowheight}{0pt}
-    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.9}}}
+    \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l L{\textwidth * \real{0.9}}}
 }{%
     \end{tabular*}
   \end{center}
