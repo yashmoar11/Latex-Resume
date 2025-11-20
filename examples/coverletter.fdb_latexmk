@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1763586816.98732 "coverletter.xdv" "coverletter.pdf" "coverletter" 1763586817.29195 0
-  "coverletter.xdv" 1763586816.93738 29420 117f4e1f22dedd22bc58b058980077d9 "xelatex"
+["xdvipdfmx"] 1763587509.81902 "coverletter.xdv" "coverletter.pdf" "coverletter" 1763587510.1317 0
+  "coverletter.xdv" 1763587509.77589 33008 a84dbb4622f80d5e89457bf9b0ca810c "xelatex"
   (generated)
   "coverletter.pdf"
   (rewritten before read)
-["xelatex"] 1763586815.56171 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1763586817.29077 0
-  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/coverletter.tex" 1763586815.39082 7049 049bd4cdff920a148a18123046063926 ""
+["xelatex"] 1763587508.37878 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1763587510.13054 0
+  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/coverletter.tex" 1763587508.15829 7405 640949b953bf95d1c14a15831f722e44 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -173,8 +173,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1739739028 10850160 130edbe3242e2024b2c246205d3ecefa ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "awesome-cv.cls" 1753226745.05627 30766 54b6a3a6160df1fb57c9a5acce449d7e ""
-  "coverletter.aux" 1763586816.93695 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "coverletter.tex" 1763586815.39082 7049 049bd4cdff920a148a18123046063926 ""
+  "coverletter.aux" 1763587509.77546 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "coverletter.tex" 1763587508.15829 7405 640949b953bf95d1c14a15831f722e44 ""
   (generated)
   "coverletter.aux"
   "coverletter.log"
