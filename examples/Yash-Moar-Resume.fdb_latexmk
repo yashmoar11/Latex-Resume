@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1769476129.47638 "resume.xdv" "resume.pdf" "resume" 1769476129.97633 0
-  "resume.xdv" 1769476129.42379 55768 1cd5155542b5d5caa0d2999abdb3bcf5 "xelatex"
+["xdvipdfmx"] 1769479888.54021 "Yash-Moar-Resume.xdv" "Yash-Moar-Resume.pdf" "Yash-Moar-Resume" 1769479888.99624 0
+  "Yash-Moar-Resume.xdv" 1769479888.48355 55540 1518eae5fb8537b636a609e9266f242e "xelatex"
   (generated)
-  "resume.pdf"
+  "Yash-Moar-Resume.pdf"
   (rewritten before read)
-["xelatex"] 1769476127.7546 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1769476129.97481 0
-  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/resume.tex" 1769475965.34099 3972 53e32712bdffef65dd0fb7f2a492c518 ""
+["xelatex"] 1769479886.30434 "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/Yash-Moar-Resume.tex" "Yash-Moar-Resume.xdv" "Yash-Moar-Resume" 1769479888.99489 0
+  "/Users/yashmoar/Resume_Latex/Awesome-CV/examples/Yash-Moar-Resume.tex" 1769479886.02738 3972 88601ef4d03d008ebcbe3d7285a173f9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -174,17 +174,16 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1739739028 10850160 130edbe3242e2024b2c246205d3ecefa ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "Yash-Moar-Resume.aux" 1769479888.48297 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "Yash-Moar-Resume.tex" 1769479886.02738 3972 88601ef4d03d008ebcbe3d7285a173f9 ""
   "awesome-cv.cls" 1769413743.3345 30762 adfb92fe54200dc3d9863029d9386488 ""
   "cv/skills.tex" 1769402657.61017 2288 ce1a142479ffcd945c8b0de82977346f ""
-  "resume.aux" 1769476129.42327 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "resume.tex" 1769475965.34099 3972 53e32712bdffef65dd0fb7f2a492c518 ""
   "resume/certificates.tex" 1769417047.61222 2190 9e95fd0ff0020a951cdd9c5dbce39580 ""
   "resume/education.tex" 1769402346.68152 1504 66f6527eee23a250216b1a0210c88403 ""
   "resume/experience.tex" 1769416960.39855 10783 1370bc2e96c3baf085bc465cce9bed94 ""
   "resume/projects.tex" 1769414078.06159 9462 387fb6320904ac90eb6afceffc0365bf ""
-  "resume/summary.tex" 1769476124.40851 1259 6141489564bed59071e7ef4007fc5e1c ""
   (generated)
-  "resume.aux"
-  "resume.log"
-  "resume.xdv"
+  "Yash-Moar-Resume.aux"
+  "Yash-Moar-Resume.log"
+  "Yash-Moar-Resume.xdv"
   (rewritten before read)
