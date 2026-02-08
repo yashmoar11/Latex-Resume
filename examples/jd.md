@@ -21,6 +21,12 @@ Example: If the JD mentions "Orchestrated" and the line says "Managed microservi
 Keyword Injection:
 If the JD emphasizes specific adjectives (e.g., "Scalable," "High-Availability," "Fault-Tolerant," "Secure", "Real-time"), insert these adjectives into existing bullet points where factually appropriate.
 Metric Preservation: NEVER alter or remove numbers, percentages, or latency figures (e.g., "20%", "40 minutes", "sub-50ms"). These are immutable facts.
+Phase 3: Walkthrough Generation
+Instructions:
+ALWAYS create a walkthrough artifact to review the changes.
+The walkthrough should summarize the changes in cv/skills.tex and resume/experience.tex, highlighting:
+- New skills added based on the JD.
+- Semantic substitutions made in the experience section (Before vs After).
 STRICT GUARDRAILS (DO NOT IGNORE)
 1. The "Truthfulness" Constraint (Experience Section)
 DO NOT invent new bullet points or projects. You are only allowed to rephrase existing content.
