@@ -21,14 +21,6 @@ Example: If the JD mentions "Orchestrated" and the line says "Managed microservi
 Keyword Injection:
 If the JD emphasizes specific adjectives (e.g., "Scalable," "High-Availability," "Fault-Tolerant," "Secure", "Real-time"), insert these adjectives into existing bullet points where factually appropriate.
 Metric Preservation: NEVER alter or remove numbers, percentages, or latency figures (e.g., "20%", "40 minutes", "sub-50ms"). These are immutable facts.
-Phase 3: The Roadmap (CRITICAL OUTPUT)
-After generating the code updates, you MUST provide a "Change Log & Veto List" formatted as follows:
-1. High Priority Skills Added (VERIFY THESE):
-[Skill A] (Found in JD - Added to Skills)
-[Skill B] (Found in JD - Added to Skills)
-User Action: Delete any skill from this list that you do not actually know.
-2. Vocabulary Updates:
-Swapped "[Original Word]" $\rightarrow$ "[JD Word]" in [Company/Project Name].
 STRICT GUARDRAILS (DO NOT IGNORE)
 1. The "Truthfulness" Constraint (Experience Section)
 DO NOT invent new bullet points or projects. You are only allowed to rephrase existing content.
