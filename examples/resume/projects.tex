@@ -20,30 +20,30 @@
 
 %---------------------------------------------------------
   \cventry
-  {Independent Developer} % Role
-  {Autonomous Graph-Grounded Agentic RAG System (``Enterprise Brain'')} % Project Name
+  {FastAPI · Next.js · React · Neo4j · Docker Compose · Server-Sent Events · TypeScript · Pydantic} % Role
+  {Distributed Graph Streaming Platform} % Project Name
   {} % Location
   {Aug. 2025 - Present} % Dates
   {
     \begin{cvitems}
-      \item {Built a \textbf{Neuro-Symbolic AI} system for financial Q\&A, reducing hallucinations by \textbf{40\%} by grounding \textbf{LLM} reasoning in a \textbf{Neo4j Knowledge Graph} with auditable retrieval paths.}
+      \item {Engineered a high-concurrency FastAPI backend with Server-Sent Events to stream AI responses token-by-token, decoupling inference from the request cycle and cutting time-to-first-response from ~5s to <100ms.}
       % \item {Engineered a self-correcting \textbf{LangGraph} pipeline with \textbf{Google Gemini}, autonomously grading document relevance and rewriting queries to meet accuracy thresholds.}
-      \item {Engineered a self-correcting \textbf{LangGraph} pipeline with \textbf{Multimodal Foundation Models}, utilizing advanced zero-shot reasoning capabilities to rewrite queries and filter hallucinations within a graph-grounded loop.}
-      \item {Developed a real-time ``Thought Process'' dashboard streaming agent reasoning via \textbf{Server-Sent Events}, improving system explainability and user trust in AI-generated responses.}
+      \item {Built an interactive graph visualization in Next.js using react-force-graph-2d with useMemo caching, preventing re-renders during high-frequency stream updates and rendering live retrieval paths for users.}
+      \item {Containerized the full polyglot stack (Python, Node.js, Neo4j) via Docker Compose with strict network rules, volume persistence, and end-to-end type safety (Pydantic + TypeScript), achieving 99.9\% deployment consistency.}
     \end{cvitems}
   }
 
 %---------------------------------------------------------
 \cventry
-    {MLOps Engineer} % Role
-    {Real-Time Multimodal Inference Pipeline} % Project Name
+    {Apache Kafka · Ray Serve · Docker · Prometheus · Grafana · vLLM · Python} % Role
+    {Distributed Real-Time Video Processing Pipeline} % Project Name
     {}
     {Nov. 2025 -- Present} % Date
     {
       \begin{cvitems}
-        \item {Designed a decoupled streaming architecture using \textbf{Apache Kafka} and \textbf{Ray Serve}, achieving sub-50ms latency by isolating I/O-bound ingestion from GPU-bound inference tasks.}
-        \item {Increased Large Language Model throughput by 4x by deploying \textbf{vLLM}, utilizing PagedAttention to solve GPU memory fragmentation issues during concurrent request batching.}
-        \item {Implemented a non-blocking monitoring service using \textbf{Alibi Detect}, running statistical MMD tests on image embeddings in background threads to detect drift without degrading API response times.}
+        \item {Designed a decoupled microservices pipeline using Apache Kafka and Ray Serve, separating I/O-bound video ingestion from GPU-intensive processing to achieve sub-50ms end-to-end latency.}
+        \item {Deployed a high-throughput LLM inference service (vLLM) with PagedAttention, increasing processing throughput by 4x whille eliminating GPU memory fragmentation under concurrent request batches.}
+        \item {Built a non-blocking drift detection service using ResNet50 embeddings, exposing live data quality metrics via Prometheus and Grafana without impacting API response latency.}
       \end{cvitems}
     }
 
