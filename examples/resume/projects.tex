@@ -26,10 +26,9 @@
   {Aug. 2025 - Present} % Dates
   {
     \begin{cvitems}
-      \item {Engineered a high-concurrency FastAPI backend with Server-Sent Events to stream AI responses token-by-token, decoupling inference from the request cycle and cutting time-to-first-response from ~5s to <100ms.}
-      % \item {Engineered a self-correcting \textbf{LangGraph} pipeline with \textbf{Google Gemini}, autonomously grading document relevance and rewriting queries to meet accuracy thresholds.}
-      \item {Built an interactive graph visualization in Next.js using react-force-graph-2d with useMemo caching, preventing re-renders during high-frequency stream updates and rendering live retrieval paths for users.}
-      \item {Containerized the full polyglot stack (Python, Node.js, Neo4j) via Docker Compose with strict network rules, volume persistence, and end-to-end type safety (Pydantic + TypeScript), achieving 99.9\% deployment consistency.}
+      \item {Engineered a high-concurrency \textbf{FastAPI} backend with \textbf{Server-Sent Events (SSE)} to stream AI-generated responses token-by-token, decoupling \textbf{LLM inference} from the HTTP request-response cycle and reducing \textbf{time-to-first-token from \~{}5s to <100ms}.}
+      \item {Built an interactive \textbf{knowledge graph visualization} in \textbf{Next.js} using \textbf{react-force-graph-2d} with \textbf{useMemo}-based memoization, preventing unnecessary re-renders during high-frequency SSE updates and rendering live \textbf{RAG retrieval paths} in real time.}
+      \item {Containerized the full polyglot stack (\textbf{Python, Node.js, Neo4j}) via \textbf{Docker Compose} with isolated service networking, persistent volumes, and end-to-end type safety using \textbf{Pydantic} and \textbf{TypeScript}, enabling single-command reproducible deployments.}
     \end{cvitems}
   }
 
@@ -41,9 +40,9 @@
     {Nov. 2025 -- Present} % Date
     {
       \begin{cvitems}
-        \item {Designed a decoupled microservices pipeline using Apache Kafka and Ray Serve, separating I/O-bound video ingestion from GPU-intensive processing to achieve sub-50ms end-to-end latency.}
-        \item {Deployed a high-throughput LLM inference service (vLLM) with PagedAttention, increasing processing throughput by 4x whille eliminating GPU memory fragmentation under concurrent request batches.}
-        \item {Built a non-blocking drift detection service using ResNet50 embeddings, exposing live data quality metrics via Prometheus and Grafana without impacting API response latency.}
+        \item {Designed a decoupled microservices pipeline using \textbf{Apache Kafka} and \textbf{Ray Serve}, separating I/O-bound video ingestion from GPU-intensive inference, achieving \textbf{sub-50ms inter-service message latency} and enabling independent scaling of each stage.}
+        \item {Deployed a high-throughput \textbf{LLM inference service} using \textbf{vLLM} with \textbf{PagedAttention}, achieving \textbf{4x throughput improvement} over naive HuggingFace inference by eliminating GPU memory fragmentation and enabling efficient \textbf{KV-cache management} under concurrent batching.}
+        \item {Built an asynchronous \textbf{drift detection service} using \textbf{ResNet50} feature embeddings, computing distribution shifts in real time and exposing live data quality metrics via \textbf{Prometheus} and \textbf{Grafana}, without impacting primary API latency.} % — without impacting primary API latency
       \end{cvitems}
     }
 
